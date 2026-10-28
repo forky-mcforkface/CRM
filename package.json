@@ -135,7 +135,7 @@
         "datatables.net-select": "^4.0.1",
         "datatables.net-select-bs5": "^4.0.1",
         "daterangepicker": "^3.1.0",
-        "dompurify": "^3.4.15",
+        "dompurify": "^3.4.17",
         "flag-icons": "^7.5.0",
         "fullcalendar": "^7.1.0",
         "i18next": "^26.4.2",
